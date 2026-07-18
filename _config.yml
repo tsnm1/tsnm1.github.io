@@ -27,8 +27,8 @@ author:
   name             : "汤山（Shan Tang）"
   pronouns         : # example: "she/her"  
   bio              : #"医学与生物统计、统计机器学习、多模态数据分析"
-  location         : # "湖北 武汉" # "Earth"
-  employer         : "武汉理工大学  数学与统计学院"
+  location         : "湖北 武汉" # "Earth"
+  employer         : # "武汉理工大学  数学与统计学院"
   uri              : # URL
   email            : # "tangshanst@whut.edu.cn" 
 
