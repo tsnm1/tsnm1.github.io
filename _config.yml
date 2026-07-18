@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "/images/tang.jpg"
+  name             : "汤山"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "医学与生物统计、统计机器学习、多模态数据分析"
+  location         : # "Earth"
+  employer         : "武汉理工大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tangshanst@whut.edu.cn" 
 
   # Academic websites
   academia         : # URL
