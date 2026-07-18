@@ -23,7 +23,7 @@ repository               : "tsnm1/tsnm1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/tangshan.jpg"
+  avatar           : "/images/tangshan.png"
   name             : # "汤山（Shan Tang）"
   pronouns         : # example: "she/her"  
   bio              : #"医学与生物统计、统计机器学习、多模态数据分析"
