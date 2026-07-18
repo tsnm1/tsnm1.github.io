@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "汤山 | Shan Tang"
+title: "个人简历"
 author_profile: true
 redirect_from: 
   - /about/
