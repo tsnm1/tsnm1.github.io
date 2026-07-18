@@ -1,56 +1,64 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "汤山 | Shan Tang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+## 个人信息
+- **姓名**：汤山（Shan Tang）
+- **出生年月**：1997.09
+- **性别**：男
+- **政治面貌**：中共党员
+- **邮箱**：tangshanhaha@hnu.edu.cn
+- **Github**：[https://github.com/tsnm1](https://github.com/tsnm1)
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+## 教育背景
+### 湖南大学 | 金融与统计学院 统计学 硕博连读
+2020.09 — 2025.06
+- 导师：谭发龙教授、毛善骏副教授
+- 主修课程：高等数理统计、统计学习、大数据挖掘、高级计量经济学
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+### 武汉理工大学 | 理学院 统计学 本科
+2016.09 — 2020.06
+- GPA：3.71 / 5.0
+- 第二学位：生物信息学（华中农业大学 信息学院）
+- 主修课程：数学分析、高等代数、概率论、数理统计
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+## 技能特长
+- **交叉学科基础**：数理统计、生物信息、经济金融多领域研究经验
+- **语言能力**：大学英语六级，可熟练阅读统计/生物信息顶刊文献
+- **编程工具**：熟练使用 R、Python、MATLAB 做统计建模与多模态数据分析
+- **学生工作**：本科学习委员、研究生马研会秘书部部长
+- **个人特质**：踏实严谨、吃苦耐劳，具备跨学科课题独立推进能力
+- **兴趣爱好**：羽毛球、骑行
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## 奖励荣誉
+### 研究生阶段
+- 湖南大学研究生一等奖学金（2020–2021）
+- 全国大学生统计建模竞赛 三等奖（2021）
+- 湖南大学优秀研究生（2024）
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+### 本科阶段
+- 校三等奖学金（2017）、单项奖学金（2018）
+- 理学院三好学生（2019）
+- 美国大学生数学建模竞赛 Meritorious Winner (H奖，2019)
+- 武汉理工大学优秀毕业生（2020）
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## 科研项目（完整项目清单见【Teaching】导航页）
+1. 湖南省研究生科研创新项目（主持）：多模态数据的异质性和网络结构研究及其在肿瘤早期诊断与预后中的应用
+2. 国家自然科学基金青年项目（参与）：阿尔茨海默症大脑时空数据的网络分析方法研究
+3. 国家统计局优选项目（参与）：基于机器学习的地方政府债务风险预警体系研究
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+## 学术成果（全部论文、工作论文见【Publications】导航页）
+### 已发表SCI论文
+1. **Shan Tang (第一作者)**, Shanjun Mao, Yangyang Chen, Falong Tan, Lihua Duan, Cong Pian, Xiangxiang Zeng (2023). LRBmat: A novel gut microbial interaction and individual heterogeneity inference method for colorectal cancer. *Journal of Theoretical Biology*, 571: 111538. (SCI Q2, 应用数学T3期刊, IF=1.9)
+2. Shanjun Mao, Xiao Huang, Runjiu Chen, Chenyang Zhang, Yizhu Diao, Zongjin Li, Qingzhe Wang, **Shan Tang (通讯作者)**, Shuixia Guo (2024). STW-MD: A Novel Spatio-Temporal Weighting and Multi-Step Decision Tree Method for Brain Gene Expression Spatial Heterogeneity. *Briefings in Bioinformatics*, 25(2). (SCI Q1, 中科院一区 CCF B, IF=6.8)
+3. Changqing Zhong, Shanjun Mao, **Shan Tang**, Pengfei Zheng, Jianqiang Peng (2025). Impact of COVID-19 on Door-to-Wire Time in STEMI Treatment: The Role of Digital Communication. *BMC Cardiovascular Disorders*, 25(1). (SCI Q3, IF=2.0)
+4. Shanjun Mao, Chenyang Zhang, Runjiu Chen, **Shan Tang**, Xiaodan Fan, Jie Hu (2025). Cell lineage tracing: Methods, applications, and challenges. *Quantitative Biology*, 13(4), e70006. (SCI Q4)
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+### 在投/待完成工作论文
+1. Falong Tan, **Shan Tang**, Lixing Zhu. Asymptotic distribution-free tests for high dimensional generalized linear models based on projected empirical processes. (To be submitted)
+2. **Shan Tang**, Shanjun Mao, Shourong Ma, Falong Tan. ZIPG-SK: Knockoff变量选择方法用于多源计数数据. (To be submitted)
+3. **Shan Tang**, Shanjun Mao, Falong Tan. HMF-P: 异质多模态融合模型及其结直肠癌分析应用. (Nearly completed)
