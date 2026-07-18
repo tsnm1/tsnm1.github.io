@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "/images/tangshan.jpg"
-  name             : "汤山"
+  name             : "汤山（Shan Tang）"
   pronouns         : # example: "she/her"  
   bio              : "医学与生物统计、统计机器学习、多模态数据分析"
   location         : # "Earth"
