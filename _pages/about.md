@@ -31,13 +31,16 @@ redirect_from:
  
 ## 学术成果
 ### 已发表论文
-1. Changqing Zhong, Shanjun Mao, **Shan Tang**, Pengfei Zheng, Jianqiang Peng (2025). Impact of COVID-19 on Door-to-Wire Time in STEMI Treatment: The Role of Digital Communication. *BMC Cardiovascular Disorders*, 25(1). (SCI Q3, IF=2.0)
-2. Shanjun Mao, Chenyang Zhang, Runjiu Chen, **Shan Tang**, Xiaodan Fan, Jie Hu (2025). Cell lineage tracing: Methods, applications, and challenges. *Quantitative Biology*, 13(4), e70006. (SCI Q4)
-3. Shanjun Mao, Xiao Huang, Runjiu Chen, Chenyang Zhang, Yizhu Diao, Zongjin Li, Qingzhe Wang, **Shan Tang (第一通讯作者)**, Shuixia Guo (2024). STW-MD: A Novel Spatio-Temporal Weighting and Multi-Step Decision Tree Method for Brain Gene Expression Spatial Heterogeneity. *Briefings in Bioinformatics*, 25(2). (SCI Q1, 中科院一区 CCF B, IF=6.8)
-4. **Shan Tang (共同第一作者)**, Shanjun Mao, Yangyang Chen, Falong Tan, Lihua Duan, Cong Pian, Xiangxiang Zeng (2023). LRBmat: A novel gut microbial interaction and individual heterogeneity inference method for colorectal cancer. *Journal of Theoretical Biology*, 571: 111538. (SCI Q2, 应用数学T3期刊, IF=1.9)
+<ul class="paper-list">
+<li>Changqing Zhong, Shanjun Mao, **Shan Tang**, Pengfei Zheng, Jianqiang Peng (2025). Impact of COVID-19 on Door-to-Wire Time in STEMI Treatment: The Role of Digital Communication. *BMC Cardiovascular Disorders*, 25(1). (SCI Q3, IF=2.0)</li>
+<li>Shanjun Mao, Chenyang Zhang, Runjiu Chen, **Shan Tang**, Xiaodan Fan, Jie Hu (2025). Cell lineage tracing: Methods, applications, and challenges. *Quantitative Biology*, 13(4), e70006. (SCI Q4)</li>
+<li>Shanjun Mao, Xiao Huang, Runjiu Chen, Chenyang Zhang, Yizhu Diao, Zongjin Li, Qingzhe Wang, **Shan Tang (第一通讯作者)**, Shuixia Guo (2024). STW-MD: A Novel Spatio-Temporal Weighting and Multi-Step Decision Tree Method for Brain Gene Expression Spatial Heterogeneity. *Briefings in Bioinformatics*, 25(2). (SCI Q1, 中科院一区 CCF B, IF=6.8)</li>
+<li>**Shan Tang (共同第一作者)**, Shanjun Mao, Yangyang Chen, Falong Tan, Lihua Duan, Cong Pian, Xiangxiang Zeng (2023). LRBmat: A novel gut microbial interaction and individual heterogeneity inference method for colorectal cancer. *Journal of Theoretical Biology*, 571: 111538. (SCI Q2, 应用数学T3期刊, IF=1.9)</li>
+</ul>
 
 ### 工作论文
-1. Falong Tan, **Shan Tang**, Lixing Zhu. Asymptotic distribution-free tests for high dimensional generalized linear models based on projected empirical processes. (under review)
-2. **Shan Tang**, Shanjun Mao, Shourong Ma, Falong Tan. Variable Selection for Multi-Source Count Data with Controlled False Discovery Rate. (under review)
-
+<ul class="paper-list">
+<li>Falong Tan, **Shan Tang**, Lixing Zhu. Asymptotic distribution-free tests for high dimensional generalized linear models based on projected empirical processes. (under review)</li>
+<li>**Shan Tang**, Shanjun Mao, Shourong Ma, Falong Tan. Variable Selection for Multi-Source Count Data with Controlled False Discovery Rate. (under review)</li>
+</ul>
 
