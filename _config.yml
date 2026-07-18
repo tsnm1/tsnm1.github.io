@@ -27,21 +27,21 @@ author:
   name             : "汤山（Shan Tang）"
   pronouns         : # example: "she/her"  
   bio              : "医学与生物统计、统计机器学习、多模态数据分析"
-  location         : # "Earth"
-  employer         : "武汉理工大学"
+  location         : "湖北 武汉" # "Earth"
+  employer         : "武汉理工大学  数学与统计学院"
   uri              : # URL
   email            : "tangshanst@whut.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0003-2196-3201"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
