@@ -12,7 +12,7 @@ redirect_from:
 - **姓名**：汤山（Shan Tang）
 - **职称**：讲师，硕导
 - **办公室**：数学与统计楼（410） 
-- **邮箱**：tangshanhaha@hnu.edu.cn
+- **邮箱**：<tangshanhaha@hnu.edu.cn>
 - **研究方向**：医学与生物统计、统计机器学习、多模态数据分析 
 
 ## 个人信息
