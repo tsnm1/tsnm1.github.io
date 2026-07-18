@@ -6,6 +6,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<style>
+.paper-list {
+  counter-reset: paper;
+  list-style: none;
+  padding-left: 1.2em;
+}
+.paper-list li {
+  counter-increment: paper;
+  margin-bottom: 0.8em;
+}
+.paper-list li::before {
+  content: "[" counter(paper) "] ";
+  font-weight: bold;
+}
+</style>
+
 ## 个人信息
 - **姓名**：汤山（Shan Tang）
 - **职称**：讲师，硕士生导师
